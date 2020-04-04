@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T11:26:24.070Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="HhiDWIwnbh2DYPug_Gix" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-04T11:33:20.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="VrspyM77ZXHiiuOIDNyY" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1344" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -418,17 +418,17 @@
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-149" value="第4条 风险控制措施&amp;nbsp;" style="strokeColor=#6c8ebf;fillColor=#99CCFF;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-149" value="第4、5条 风险控制措施&amp;nbsp;" style="strokeColor=#6c8ebf;fillColor=#99CCFF;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-150" value="Porta ac consectetur ac" style="strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-150" value="第6、7条 性能特性" style="strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-151" value="Vestibulum at eros" style="strokeColor=#666666;fillColor=#A8A8A8;fontColor=#333333;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-151" value="第8、9条 使用协调标准、指导原则确保风险可接受&amp;nbsp;" style="strokeColor=#666666;fillColor=#A8A8A8;fontColor=#333333;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
           <mxGeometry y="1" width="250" height="30" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
