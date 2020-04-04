@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T11:40:13.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="NwfPmN4LiXqIkCGt9MCQ" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-04T11:56:56.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="BRuFxKPHtlqwY1csD23o" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1344" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1732" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,17 +346,17 @@
             <mxPoint y="150" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-125" value="A simple info list group item" style="html=1;fillColor=#BFE6EB;strokeColor=#A7C9CE;fontColor=#0E5560;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-125" value="第16条 辐射防护" style="html=1;fillColor=#BFE6EB;strokeColor=#A7C9CE;fontColor=#0E5560;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="180" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-126" value="A simple light list group item" style="html=1;fillColor=#FDFDFE;strokeColor=#DDDDDE;fontColor=#818182;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-126" value="第17条 可编程电气系统" style="html=1;fillColor=#FDFDFE;strokeColor=#DDDDDE;fontColor=#818182;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="210" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-127" value="A simple dark list group item" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;fillColor=#C6C8CA;strokeColor=#ADAFB1;fontColor=#1B1E21;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-127" value="第18条 有源器械和与其连接的器械" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;fillColor=#C6C8CA;strokeColor=#ADAFB1;fontColor=#1B1E21;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
           <mxGeometry y="1" width="250" height="30" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
@@ -364,47 +364,32 @@
         <mxCell id="ugjinGdvRi5wo-l6OGdH-129" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-100" y="-70" width="250" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-130" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-130" value="第19条 有源可植入器械的特殊要求" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
           <mxGeometry width="250" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-131" value="A simple primary list group item" style="html=1;fillColor=#B8DCFE;strokeColor=#A1C0DE;fontColor=#004583;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-131" value="第20条 机械和热风险防护" style="html=1;fillColor=#B8DCFE;strokeColor=#A1C0DE;fontColor=#004583;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-132" value="A simple secondary list group item" style="html=1;fillColor=#D6D8DB;strokeColor=#BBBDC0;fontColor=#383D41;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-132" value="第21条 通过器械供应能量或物质防止对患者或使用者造成危险" style="html=1;fillColor=#D6D8DB;strokeColor=#BBBDC0;fontColor=#383D41;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-133" value="A simple success list group item" style="html=1;fillColor=#C4E6CC;strokeColor=#ABC9B2;fontColor=#ABC9B2;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-133" value="&lt;font color=&quot;#000000&quot;&gt;第22条 防止制造商预期用于非专业人员使用的医疗器械所造成的危险&lt;/font&gt;" style="html=1;fillColor=#C4E6CC;strokeColor=#ABC9B2;fontColor=#ABC9B2;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-134" value="A simple danger list group item" style="html=1;fillColor=#F4C5CB;strokeColor=#D5ACB2;fontColor=#711623;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-134" value="第23条 标签和使用说明书" style="html=1;fillColor=#F4C5CB;strokeColor=#D5ACB2;fontColor=#711623;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="120" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-135" value="A simple warning list group item" style="html=1;fillColor=#FFECBC;strokeColor=#DFCEA4;fontColor=#856110;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
-          <mxGeometry width="250" height="30" relative="1" as="geometry">
-            <mxPoint y="150" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-136" value="A simple info list group item" style="html=1;fillColor=#BFE6EB;strokeColor=#A7C9CE;fontColor=#0E5560;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
-          <mxGeometry width="250" height="30" relative="1" as="geometry">
-            <mxPoint y="180" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-137" value="A simple light list group item" style="html=1;fillColor=#FDFDFE;strokeColor=#DDDDDE;fontColor=#818182;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
-          <mxGeometry width="250" height="30" relative="1" as="geometry">
-            <mxPoint y="210" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-138" value="A simple dark list group item" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;fillColor=#C6C8CA;strokeColor=#ADAFB1;fontColor=#1B1E21;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
-          <mxGeometry y="1" width="250" height="30" relative="1" as="geometry">
-            <mxPoint y="-30" as="offset" />
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-138" value="&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;fillColor=#C6C8CA;strokeColor=#ADAFB1;fontColor=#1B1E21;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-129">
+          <mxGeometry y="1" width="250" height="91" relative="1" as="geometry">
+            <mxPoint y="-121" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-146" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
