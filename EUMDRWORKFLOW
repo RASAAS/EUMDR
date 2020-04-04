@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T13:13:01.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ers8GGkNZunvHxSr6SA8" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-04T13:13:51.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="tTHsFJanV37m_tX3ivM3" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2207" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -573,6 +573,14 @@
         <mxCell id="ugjinGdvRi5wo-l6OGdH-240" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-235">
           <mxGeometry y="1" width="360" height="30" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-241" value="GSPR" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;html=1;whiteSpace=wrap;fillColor=#59AFFD;fontColor=#ffffff;align=right;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-530" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-242" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.arc;startAngle=0.25;endAngle=1;strokeWidth=4;strokeColor=#ffffff;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-241">
+          <mxGeometry y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="15" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
