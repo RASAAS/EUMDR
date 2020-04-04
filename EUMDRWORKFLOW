@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T11:33:20.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="VrspyM77ZXHiiuOIDNyY" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-04T11:40:13.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="NwfPmN4LiXqIkCGt9MCQ" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1344" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -318,30 +318,30 @@
         <mxCell id="ugjinGdvRi5wo-l6OGdH-118" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-100" y="-340" width="250" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-119" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-119" value="第10条 化学、物理和生物学特性" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
           <mxGeometry width="250" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-120" value="A simple primary list group item" style="html=1;fillColor=#B8DCFE;strokeColor=#A1C0DE;fontColor=#004583;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-120" value="第11条 感染及微生物污染" style="html=1;fillColor=#B8DCFE;strokeColor=#A1C0DE;fontColor=#004583;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-121" value="A simple secondary list group item" style="html=1;fillColor=#D6D8DB;strokeColor=#BBBDC0;fontColor=#383D41;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-121" value="第12条 包含药物成分，及由人体吸收或局部喷洒在人体上的物质的器械" style="html=1;fillColor=#D6D8DB;strokeColor=#BBBDC0;fontColor=#383D41;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-122" value="A simple success list group item" style="html=1;fillColor=#C4E6CC;strokeColor=#ABC9B2;fontColor=#ABC9B2;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-122" value="&lt;font color=&quot;#000000&quot;&gt;第13条 包含生物源性材料的器械&lt;/font&gt;" style="html=1;fillColor=#C4E6CC;strokeColor=#ABC9B2;fontColor=#ABC9B2;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-123" value="A simple danger list group item" style="html=1;fillColor=#F4C5CB;strokeColor=#D5ACB2;fontColor=#711623;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-123" value="第14条 器械构造及其与环境的相互影响" style="html=1;fillColor=#F4C5CB;strokeColor=#D5ACB2;fontColor=#711623;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="120" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-124" value="A simple warning list group item" style="html=1;fillColor=#FFECBC;strokeColor=#DFCEA4;fontColor=#856110;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-124" value="第15条 具有诊断或测定功能的器械" style="html=1;fillColor=#FFECBC;strokeColor=#DFCEA4;fontColor=#856110;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-118">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="150" as="offset" />
           </mxGeometry>
