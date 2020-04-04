@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T12:24:20.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="0PB3jHgDu7FCLm-Z4LZS" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-04T13:10:22.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="iyccBnt67s2n8YqaZ0tM" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2207" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-233" value="" style="fillColor=#EAEDF2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-330" width="380" height="680" as="geometry" />
+        </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#CC6600;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="2" target="6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -57,12 +60,6 @@
               <mxPoint x="249" y="370" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="62" value="Progress&#xa;reports" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="545.0000000000001" y="100.00000000000003" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="63" value="Progress&#xa;reports" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="640" y="146.0000000000001" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="64" value="Progress&#xa;reports" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="751.0000000000001" y="261.0000000000001" width="30" height="20" as="geometry" />
@@ -512,6 +509,16 @@
         <mxCell id="ugjinGdvRi5wo-l6OGdH-177" value="&lt;font style=&quot;font-size: 15px&quot;&gt;生产过程要求&lt;/font&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_farm" vertex="1" parent="1">
           <mxGeometry x="201" y="-400" width="125" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=blockThin;endFill=1;strokeColor=#000000;strokeWidth=1;exitX=0.784;exitY=-0.022;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ugjinGdvRi5wo-l6OGdH-178" target="ugjinGdvRi5wo-l6OGdH-229">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="337" y="-260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="299" y="-183" />
+              <mxPoint x="300" y="-183" />
+              <mxPoint x="300" y="-260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-178" value="&lt;font style=&quot;font-size: 15px&quot;&gt;产品要求&lt;/font&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.performance_monitor" vertex="1" parent="1">
           <mxGeometry x="201" y="-180" width="125" height="90" as="geometry" />
         </mxCell>
@@ -519,6 +526,53 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="151" y="155" as="sourcePoint" />
             <mxPoint x="201" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-227" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-320" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-228" value="所有产品" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-227">
+          <mxGeometry width="360" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-229" value="证明用于预期用途临床评价的器械等同于与数据相关的器械，临床数据可充分证明符合GSPR相关要求" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-227">
+          <mxGeometry width="360" height="50" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-230" value="所有可用的临床研究结果的关键评估应依据MDR第62条至80条、第81条和附录XV所采用的法案规定适当考虑是否进行研究。" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-227">
+          <mxGeometry width="360" height="50" relative="1" as="geometry">
+            <mxPoint y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-231" value="考虑替代当前可用的治疗方案（如有）" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-227">
+          <mxGeometry width="360" height="30" relative="1" as="geometry">
+            <mxPoint y="130" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-235" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-140" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-236" value="Cras justo odio" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-235">
+          <mxGeometry width="360" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-237" value="Dapibus ac facilisis in" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-235">
+          <mxGeometry width="360" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-238" value="Morbi leo risus" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-235">
+          <mxGeometry width="360" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-239" value="Porta ac consectetur ac" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-235">
+          <mxGeometry width="360" height="30" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-240" value="Vestibulum at eros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-235">
+          <mxGeometry y="1" width="360" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
