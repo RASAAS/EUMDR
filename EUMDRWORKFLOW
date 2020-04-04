@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T10:47:41.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="pbxtgeP0pSK5o5kvvw44" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-04T11:26:24.070Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="HhiDWIwnbh2DYPug_Gix" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2209" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1344" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,15 +410,15 @@
         <mxCell id="ugjinGdvRi5wo-l6OGdH-146" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-100" y="-490" width="250" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-147" value="第1章&amp;nbsp;一般要求" style="strokeColor=#b85450;fillColor=#f8cecc;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-147" value="第1条 通用设计和安全要求" style="strokeColor=#b85450;fillColor=#f8cecc;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
           <mxGeometry width="250" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-148" value="第2章&amp;nbsp;设计和生产相关要求" style="strokeColor=#d6b656;fillColor=#fff2cc;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-148" value="第3条 风险管理系统" style="strokeColor=#d6b656;fillColor=#fff2cc;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-149" value="Morbi leo risus" style="strokeColor=#6c8ebf;fillColor=#99CCFF;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-149" value="第4条 风险控制措施&amp;nbsp;" style="strokeColor=#6c8ebf;fillColor=#99CCFF;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-146">
           <mxGeometry width="250" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
