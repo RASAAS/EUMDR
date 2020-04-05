@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-05T11:33:33.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ty19uUE9ZgEu5CISl_Nq" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-05T11:37:12.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="QGiFEGKsTJf1A3Np73_n" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2207" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -673,16 +673,14 @@
         <mxCell id="ugjinGdvRi5wo-l6OGdH-308" value="" style="shape=rect;fillColor=#ffffff;strokeColor=none;shadow=1;labelBackgroundColor=#3399FF;fontSize=13;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="840" y="350" width="120" height="356" as="geometry" />
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-309" value="临床研究中的每一步，从首先考虑研究的必要性和正当性到公布结果，均应符合公认的伦理原则。" style="shape=rect;strokeColor=none;fillColor=#BDBDBD;whiteSpace=wrap;align=left;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-308">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-309" value="1. 伦理学原则&#xa;2. 方法" style="shape=rect;strokeColor=none;fillColor=#BDBDBD;whiteSpace=wrap;align=left;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-308">
           <mxGeometry width="120" height="196" as="geometry" />
         </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-310" value="通用要求" style="text;verticalAlign=bottom;fontSize=23;spacingLeft=16;spacing=0;spacingBottom=-5;resizeWidth=1;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-308">
           <mxGeometry y="0.5506" width="119.29824561403508" height="45" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-311" value="伦理学原则" style="text;whiteSpace=wrap;spacingLeft=16;spacingRight=16;spacing=0;fontSize=14;resizeWidth=1;resizeHeight=1;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-308">
-          <mxGeometry y="0.5506" width="120" height="76" relative="1" as="geometry">
-            <mxPoint y="50" as="offset" />
-          </mxGeometry>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-315" value="详情" style="dashed=0;align=center;fontSize=12;shape=rect;fillColor=#999999;opacity=40;strokeColor=none;fontStyle=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="662" width="100" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
