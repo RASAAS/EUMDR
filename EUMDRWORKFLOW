@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-05T11:37:12.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="QGiFEGKsTJf1A3Np73_n" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-05T11:47:45.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="SOua3_tNzhggHt4dOlfE" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2207" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="ugjinGdvRi5wo-l6OGdH-267" value="" style="fillColor=#EAEDF2;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="340" width="740" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-259" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-259" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="20" y="210" width="310" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-255" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFBC9;strokeColor=none;" vertex="1" parent="1">
@@ -202,8 +202,8 @@
         <mxCell id="96" value="System&#xa;version" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="350.9999999999998" y="461" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="54" value="制造商确定产品预期用途和产品分类" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="130" y="360" width="30" height="20" as="geometry" />
+        <mxCell id="54" value="制造商确定产品预期用途和产品分类" style="text;spacingTop=-5;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="222.82" y="250" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-96" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;html=1;whiteSpace=wrap;fillColor=#6C767D;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="30" y="210" width="110" height="150" as="geometry" />
@@ -681,6 +681,12 @@
         </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-315" value="详情" style="dashed=0;align=center;fontSize=12;shape=rect;fillColor=#999999;opacity=40;strokeColor=none;fontStyle=1;shadow=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="662" width="100" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-316" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;shadow=1;labelBackgroundColor=none;strokeColor=#22BF0A;fillColor=#22BF0A;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="188.5" y="220" width="28.26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-317" value="&lt;font color=&quot;#ff0000&quot;&gt;START&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="207.82" y="223" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
