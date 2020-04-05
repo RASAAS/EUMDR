@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-05T13:19:36.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="BZ53uMhpMK7Oh2QZiEaE" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-05T13:26:54.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="YA09mhVK_OCf0QeRmdwE" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2207" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -607,9 +607,11 @@
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vGv4eqPP1V-_jcoFlWje-104" value="详情" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="vGv4eqPP1V-_jcoFlWje-97" vertex="1">
-          <mxGeometry x="10" y="100" width="80" height="40" as="geometry" />
-        </mxCell>
+        <UserObject label="详情" link="https://rahub.rcsc.ltd" id="vGv4eqPP1V-_jcoFlWje-104">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="vGv4eqPP1V-_jcoFlWje-97" vertex="1">
+            <mxGeometry x="10" y="100" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="vGv4eqPP1V-_jcoFlWje-108" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#364149;shadow=0;dashed=0;image;image=img/lib/cumulus/netq_server.svg;" parent="1" vertex="1">
           <mxGeometry x="950" y="580" width="180" height="37.5" as="geometry" />
         </mxCell>
