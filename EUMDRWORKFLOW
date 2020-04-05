@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-04-05T10:55:30.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="G0suwX1U3BHEZeOIKIbe" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-05T11:03:43.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="3BYdGCRRJVkNCfcUItlR" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2207" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-267" value="" style="fillColor=#EAEDF2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="340" width="740" height="410" as="geometry" />
+        </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-259" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="210" width="310" height="170" as="geometry" />
         </mxCell>
@@ -22,8 +25,8 @@
         <mxCell id="6" value="&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;基本要求&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;➕&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;通用安全与性能要求&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;GSPR&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="188.5" y="110" width="125" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 3&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;List Possible&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System Solutions&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="681" y="371" width="110" height="90" as="geometry" />
+        <mxCell id="7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;span&gt;临床试验&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="716" y="350" width="110" height="59" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;临床评价&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="462" y="270" width="364" height="56" as="geometry" />
@@ -76,24 +79,11 @@
             <mxPoint x="500" y="500" as="sourcePoint" />
             <mxPoint x="600" y="400" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="660" y="400" />
+              <mxPoint x="650" y="390" />
               <mxPoint x="650" y="410" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="73" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2" parent="1" source="7" target="5" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="460" y="500" as="sourcePoint" />
-            <mxPoint x="560" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="650" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="74" value="Resources" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="621" y="390.99999999999994" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="75" value="System &#xa;Advantages &#xa;and Limitations" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="630" y="431.0000000000001" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="76" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" source="9" target="5" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -642,6 +632,19 @@
               <mxPoint x="900" y="-333" />
               <mxPoint x="900" y="31" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-268" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeColor=none;strokeWidth=1;shape=flexArrow;fillColor=#3399FF;" edge="1" parent="1" target="ugjinGdvRi5wo-l6OGdH-267">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="-195" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="-195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-269" value="无法豁免临床试验" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#3399FF;fontSize=15;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="ugjinGdvRi5wo-l6OGdH-268">
+          <mxGeometry x="-0.6102" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
