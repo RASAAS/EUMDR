@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-05T11:18:15.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="uUgAI-gVxakbDvz9_SoH" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-05T11:33:33.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ty19uUE9ZgEu5CISl_Nq" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2207" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="188.5" y="110" width="125" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;span&gt;临床试验&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="716" y="350" width="110" height="59" as="geometry" />
+          <mxGeometry x="716" y="370" width="110" height="59" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;临床评价&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="462" y="270" width="364" height="56" as="geometry" />
@@ -669,6 +669,20 @@
         </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-275" value="&lt;font color=&quot;#22bf0a&quot;&gt;顺时针方向流程图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="340" y="-658" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-308" value="" style="shape=rect;fillColor=#ffffff;strokeColor=none;shadow=1;labelBackgroundColor=#3399FF;fontSize=13;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="840" y="350" width="120" height="356" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-309" value="临床研究中的每一步，从首先考虑研究的必要性和正当性到公布结果，均应符合公认的伦理原则。" style="shape=rect;strokeColor=none;fillColor=#BDBDBD;whiteSpace=wrap;align=left;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-308">
+          <mxGeometry width="120" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-310" value="通用要求" style="text;verticalAlign=bottom;fontSize=23;spacingLeft=16;spacing=0;spacingBottom=-5;resizeWidth=1;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-308">
+          <mxGeometry y="0.5506" width="119.29824561403508" height="45" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-311" value="伦理学原则" style="text;whiteSpace=wrap;spacingLeft=16;spacingRight=16;spacing=0;fontSize=14;resizeWidth=1;resizeHeight=1;" vertex="1" parent="ugjinGdvRi5wo-l6OGdH-308">
+          <mxGeometry y="0.5506" width="120" height="76" relative="1" as="geometry">
+            <mxPoint y="50" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
