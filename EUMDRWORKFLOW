@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-05T11:03:43.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="3BYdGCRRJVkNCfcUItlR" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-05T11:07:32.784Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="tjfkBHBJRgd1zOODASny" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2207" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -548,6 +548,16 @@
             <mxPoint y="130" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-270" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=none;strokeWidth=1;fillColor=#3399FF;fontSize=15;fontColor=#FFFFFF;" edge="1" parent="ugjinGdvRi5wo-l6OGdH-227">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="195" as="targetPoint" />
+            <mxPoint x="354" y="15" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="394" y="15" />
+              <mxPoint x="394" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-235" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="466" y="-210" width="360" height="150" as="geometry" />
         </mxCell>
@@ -636,15 +646,16 @@
         </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-268" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeColor=none;strokeWidth=1;shape=flexArrow;fillColor=#3399FF;" edge="1" parent="1" target="ugjinGdvRi5wo-l6OGdH-267">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="-195" as="sourcePoint" />
+            <mxPoint x="860" y="-280" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1070" y="-195" />
+              <mxPoint x="860" y="-280" />
+              <mxPoint x="1070" y="-280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-269" value="无法豁免临床试验" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#3399FF;fontSize=15;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="ugjinGdvRi5wo-l6OGdH-268">
           <mxGeometry x="-0.6102" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-52" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
