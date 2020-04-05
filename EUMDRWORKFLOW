@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-05T10:54:50.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Yrizqj_8WrHVuzDvaviN" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-05T10:55:30.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="G0suwX1U3BHEZeOIKIbe" version="12.9.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2207" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -603,12 +603,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="344" y="74" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="484" y="74" />
-              <mxPoint x="484" y="382" />
+              <mxPoint x="454" y="74" />
+              <mxPoint x="454" y="382" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugjinGdvRi5wo-l6OGdH-248" value="&lt;font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;MDCG 指导原则: 临床评价 - 同品种产品&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;目前仍在咨询过程中，&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;计划发布时间: 2020&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+        <mxCell id="ugjinGdvRi5wo-l6OGdH-248" value="&lt;font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;MDCG 指导原则: 临床评价 - 同品种产品&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#ff1e05&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;目前仍在咨询过程中，&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;计划发布时间: 2020&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="466" width="354" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ugjinGdvRi5wo-l6OGdH-241" value="GSPR" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;html=1;whiteSpace=wrap;fillColor=#59AFFD;fontColor=#ffffff;align=right;spacing=10;" vertex="1" parent="1">
