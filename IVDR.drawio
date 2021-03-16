@@ -1,11 +1,11 @@
-<mxfile modified="2021-03-16T08:09:22.097Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="V9OkimL17ZiglsTjKVXX" version="14.4.4" type="github">
+<mxfile modified="2021-03-16T08:11:24.661Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="NmmvYCkjMHH_twioUZvO" version="14.4.4" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="&lt;b&gt;EU&amp;nbsp;&lt;/b&gt;IVDR" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
-          <mxGeometry x="228.5" y="45" width="640" height="520" as="geometry" />
+          <mxGeometry x="228.5" y="45" width="640" height="1285" as="geometry" />
         </mxCell>
         <mxCell id="371" value="Streaming" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="448" y="1784" width="170" height="170" as="geometry" />
@@ -267,6 +267,9 @@
         </mxCell>
         <mxCell id="ad4-t8fsiWjWlTMB4g6z-440" value="欧盟其它适用法规或指令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ad4-t8fsiWjWlTMB4g6z-432">
           <mxGeometry x="186.36" y="77.26" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ad4-t8fsiWjWlTMB4g6z-442" value="设计输入&amp;amp;基本要求" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="101" y="730" width="699" height="282.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
