@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-16T07:11:03.817Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="pjPRrD-90Q_jcl6VIm_L" version="14.4.4" type="github">
+<mxfile modified="2021-03-16T07:19:19.401Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="BQ9znNUc6jUcfzxPmAqn" version="14.4.4" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="361" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="200" width="370" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="362" value="&lt;font color=&quot;#000000&quot;&gt;IVD类型&lt;br&gt;&lt;/font&gt;床旁检测&lt;br&gt;自测&lt;br&gt;伴随诊断&lt;br&gt;诊断设备&lt;br&gt;软件" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_pubsub;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" parent="361" vertex="1">
+        <mxCell id="362" value="&lt;font color=&quot;#000000&quot;&gt;IVD类型及分类&lt;br&gt;&lt;/font&gt;床旁检测&lt;br&gt;自测&lt;br&gt;伴随诊断&lt;br&gt;诊断设备&lt;br&gt;软件" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_pubsub;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" parent="361" vertex="1">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
